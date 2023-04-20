@@ -1,3 +1,6 @@
+<p align="center"><a href="https://Vhelaa1.github.io"><img width="80%" alt="Hello, I'm Hala. Drissi :)!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HEY👋;I'm+from+Morocco;I'm+Currently+an+ALX+Student🤓;Welcome!❤️)
 
 
