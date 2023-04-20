@@ -2,6 +2,7 @@
 
 
 <h2>Hala Drissi-EL Bouzaidi 👨🏻‍💻📊📉</h2>
+<img align="right" alt="Coding" width="40D" src=https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif>
 
 <h3><code>Software engineering student</code></h3>
 
