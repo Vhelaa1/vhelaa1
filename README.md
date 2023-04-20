@@ -1,7 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HEY👋;I'm+from+Morocco;I'm+Currently+an+ALX+Student🤓;Welcome!❤️)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HEY💗;I'm+from+Morocco;I'm+Currently+an+ALX+Student🤓;Welcome!💕)
 
 
-<h2>Hala Drissi-EL Bouzaidi 👨🏻‍💻📊📉</h2>
+<h2>✨ Hala Drissi-EL Bouzaidi 👨🏻‍💻✨</h2>
 <img align="right" alt="Coding" width="40D" src=https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif>
 
 <h3><code>Software engineering student</code></h3>
