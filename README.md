@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="40D" src=https://icons8.com/mega-creator/illustration/6441f84a6f091c0020011385>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HEY💗;I'm+from+Morocco;I'm+Currently+an+ALX+Student🤓;Welcome!💕)
 
 
