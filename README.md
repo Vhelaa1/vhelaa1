@@ -29,7 +29,7 @@
 
 <!--Total Contributions--> 
  <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=vhela1&theme=tokyonight_duo&hide_border=true"
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=Vhelaa1&theme=tokyonight_duo&hide_border=true"
 </p>
 
 <!--visits-->   
